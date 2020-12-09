@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98e1ae0a-36f5-4e22-96af-78f2d0a56dcc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jN9PZoAMRNHUrEaipaYoVtYN8q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.1" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Lab1\bootstrap" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98e1ae0a-36f5-4e22-96af-78f2d0a56dcc" name="Default Changelist" comment="" />
+      <created>1603633658408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603633658408</updated>
+      <workItem from="1603633659434" duration="140000" />
+      <workItem from="1603634115361" duration="1265000" />
+      <workItem from="1607202390439" duration="1804000" />
+      <workItem from="1607204478488" duration="1786000" />
+      <workItem from="1607206296985" duration="275000" />
+      <workItem from="1607360898857" duration="1447000" />
+      <workItem from="1607362371727" duration="30000" />
+      <workItem from="1607362650638" duration="1194000" />
+      <workItem from="1607363865235" duration="1784000" />
+      <workItem from="1607365673815" duration="882000" />
+      <workItem from="1607373681667" duration="100000" />
+      <workItem from="1607374075310" duration="1784000" />
+      <workItem from="1607375914015" duration="1759000" />
+      <workItem from="1607377742036" duration="1155000" />
+      <workItem from="1607378931672" duration="1782000" />
+      <workItem from="1607380771255" duration="1753000" />
+      <workItem from="1607382571962" duration="1771000" />
+      <workItem from="1607384372723" duration="95000" />
+      <workItem from="1607439492850" duration="1454000" />
+      <workItem from="1607528749527" duration="1756000" />
+      <workItem from="1607530537273" duration="1504000" />
+      <workItem from="1607532287030" duration="1066000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1607364922314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607364922314" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1607205758869">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607205758869" />
+    <state x="255" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1603634384712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="255" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603634384712" />
+  </component>
+</project>
